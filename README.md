@@ -183,3 +183,7 @@ For example:
     return render_template('result.html', origins=named_tuples_ls)
 
 Since origins is now a tuple list, we can loop through using jinja's for loop in html and then call different values encapsulated. e.g. `{{origin.creator}}`
+
+
+asdma.sdmalsdml;
+a,sdnlakdlasdasd
